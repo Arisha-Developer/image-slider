@@ -1,0 +1,24 @@
+.main{
+    text-align: center;
+}
+#btn{
+    background-color: green;
+    color: white;
+    border-radius: 12px;
+    width: 14%;
+    height: 6vh;
+    border:none;
+}
+#btn-2{
+    background-color: green;
+    color: white;
+    border-radius: 12px;
+    width: 14%;
+    height: 6vh;
+    border:none;
+}
+.slider_img{
+    width: auto;
+    height: auto;
+}
+234.574px 351px
